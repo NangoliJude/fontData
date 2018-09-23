@@ -1,0 +1,33 @@
+
+
+   [
+        {
+          "id": 1,
+          "title": "Im Header",
+          "body": "Hello am body whats Up Boys",
+          "fontFamily": "Georgia",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "1.6",
+          "LetterSpacing": "0px",
+          "WordSpacing": "0px",
+          "color": "green",
+          "opacity": "0",
+          "backgroundColor": "black",
+          "backgroundImage": "",
+          "accountImage": "",
+          "author": "Jude",
+          "likes": 10000,
+          "emotionColors": [],
+          "colorMeaning": "Love",
+          "inspiration": [],
+          "fontLink": ["Rubik", "Lato"],
+          "imageUrl":
+            "https://4.bp.blogspot.com/-s2ti3uUanBE/W1Z4P7SSNbI/AAAAAAAAAyY/M_5ZvzqWTd07q_dudAMNnNPIMHiXgPfxQCLcBGAs/s1600/jude4.png"
+        }
+        
+      ]
+    
+
+
+
