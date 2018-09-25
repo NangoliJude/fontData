@@ -16,7 +16,9 @@
           "accountImage": "",
           "author": "Jude",
           "likes": 10000,
-          "emotionColors": [],
+          "emotionColors": {"blue":[
+            {"id": 1, "blueA": "blue", "blueB": "pink"}
+          ]},
           "colorMeaning": "Love",
           "inspiration": [],
           "fontLink": ["Rubik", "Lato"],
@@ -40,7 +42,9 @@
           "accountImage": "",
           "author": "Jude",
           "likes": 10000,
-          "emotionColors": [],
+          "emotionColors": {"black":[
+            {"id": 1, "blueA": "blue", "blueB": "pink"}
+          ]},
           "colorMeaning": "Love",
           "inspiration": [],
           "fontLink": ["Rubik", "Lato"],
@@ -64,7 +68,9 @@
           "accountImage": "",
           "author": "Jude",
           "likes": 10000,
-          "emotionColors": [],
+          "emotionColors": {"blue":[
+            {"id": 1, "blueA": "blue", "blueB": "pink"}
+          ]},
           "colorMeaning": "Love",
           "inspiration": [],
           "fontLink": ["Rubik", "Lato"],
@@ -88,7 +94,9 @@
           "accountImage": "",
           "author": "Jude",
           "likes": 10000,
-          "emotionColors": [],
+          "emotionColors": { "green":[
+            {"id": 1, "blueA": "blue", "blueB": "black"}
+          ]},
           "colorMeaning": "Love",
           "inspiration": [],
           "fontLink": ["Rubik", "Lato"],
