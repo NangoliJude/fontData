@@ -1,8 +1,8 @@
 [
         {
           "id": 1,
-          "title": "Im Header",
-          "body": "Hello am body whats Up Boys",
+          "title": "",
+          "body": "",
           "fontFamily": "Georgia",
           "fontSize": "16px",
           "fontWeight": "700",
@@ -29,8 +29,8 @@
         },
         {
           "id": 2,
-          "title": "Im Header",
-          "body": "Hello am body whats Up Jude",
+          "title": "",
+          "body": "",
           "fontFamily": "Roboto",
           "fontSize": "16px",
           "fontWeight": "700",
@@ -57,8 +57,8 @@
         },
         {
           "id": 3,
-          "title": "Im Header",
-          "body": "Nangoli Up Eric",
+          "title": "",
+          "body": "",
           "fontFamily": "Tahoma",
           "fontSize": "16px",
           "fontWeight": "700",
@@ -85,8 +85,8 @@
         },
         {
           "id": 4,
-          "title": "Im Header",
-          "body": "Hello am body whats Up Nangoli",
+          "title": "",
+          "body": "",
           "fontFamily": "OSWALD",
           "fontSize": "16px",
           "fontWeight": "700",
