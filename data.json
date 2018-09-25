@@ -17,7 +17,8 @@
           "author": "Jude",
           "likes": 10000,
           "emotionColors": [
-            {"colors":[{"id": 1, "blueA": "blue", "blueB": "black"}]}
+            {"id": 1, "blueA": "blue", "blueB": "pink"},
+            {"id": 2, "blueA": "blue", "blueB": "pink"}
           ],
           "colorMeaning": "Love",
           "inspiration": [],
@@ -43,7 +44,8 @@
           "author": "Jude",
           "likes": 10000,
           "emotionColors": [
-            {"colors":[{"id": 1, "blueA": "blue", "blueB": "black"}]}
+            {"id": 1, "blueA": "blue", "blueB": "pink"},
+            {"id": 2, "blueA": "blue", "blueB": "pink"}
           ],
           "colorMeaning": "Love",
           "inspiration": [],
@@ -69,7 +71,8 @@
           "author": "Jude",
           "likes": 10000,
           "emotionColors": [
-            {"colors":[{"id": 1, "blueA": "blue", "blueB": "black"}]}
+            {"id": 1, "blueA": "blue", "blueB": "pink"},
+            {"id": 2, "blueA": "blue", "blueB": "pink"}
           ],
           "colorMeaning": "Love",
           "inspiration": [],
@@ -95,7 +98,8 @@
           "author": "Jude",
           "likes": 10000,
           "emotionColors": [
-            {"colors":[{"id": 1, "blueA": "blue", "blueB": "black"}]}
+            {"id": 1, "blueA": "blue", "blueB": "black"},
+            {"id": 2, "blueA": "blue", "blueB": "pink"}
           ],
           "colorMeaning": "Love",
           "inspiration": [],
