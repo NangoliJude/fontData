@@ -77,7 +77,7 @@
             {"id": 2, "blueA": "blue", "blueB": "pink"}
           ],
           "colorMeaning": "Love",
-          "inspiration": [],
+          "inspiration": ["yes"],
           "fontLink": ["Rubik", "Lato"],
           "fontType": "https://3.bp.blogspot.com/-2sXrJUaAYEg/W6m70Sg_LcI/AAAAAAAAA3Y/to8LaJhIyfkLDdg6EnLcS3RXg0-Bj0RGQCLcBGAs/s1600/Karla.png",
           "imageUrl":
