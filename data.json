@@ -1,25 +1,26 @@
 [
         {
           "id": 1,
-         
+          "title": "Im Header",
+          "body": "Hello am body whats Up Boys",
           "fontFamily": "Georgia",
           "fontSize": "16px",
           "fontWeight": "700",
           "lineHeight": "1.6",
           "LetterSpacing": "0px",
           "WordSpacing": "0px",
-          "color": "green",
+          "color": "white",
           "opacity": "0",
-          "backgroundColor": "green",
+          "backgroundColor": "red",
           "backgroundImage": "",
           "accountImage": "",
           "author": "Jude",
           "likes": 10000,
           "emotionColors": [
-            {"id": 1, "blueA": "blue", "blueB": "pink"},
+            {"id": 1, "colorA": "red", "colorB": "red"},
             {"id": 2, "blueA": "blue", "blueB": "pink"}
           ],
-          "colorMeaning": "Love",
+          "colorMeaning": "energy, war, danger, strength, power, determination, passion, attention, desire, and love",
           "inspiration": [],
           "fontLink": ["Rubik", "Lato"],
           "fontType": "https://3.bp.blogspot.com/-2sXrJUaAYEg/W6m70Sg_LcI/AAAAAAAAA3Y/to8LaJhIyfkLDdg6EnLcS3RXg0-Bj0RGQCLcBGAs/s1600/Karla.png",
@@ -28,16 +29,17 @@
         },
         {
           "id": 2,
-          
+          "title": "Im Header",
+          "body": "Hello am body whats Up Jude",
           "fontFamily": "Roboto",
           "fontSize": "16px",
           "fontWeight": "700",
           "lineHeight": "1.6",
           "LetterSpacing": "0px",
           "WordSpacing": "0px",
-          "color": "green",
+          "color": "white",
           "opacity": "0",
-          "backgroundColor": "blue",
+          "backgroundColor": "Orange",
           "backgroundImage": "",
           "accountImage": "",
           "author": "Jude",
@@ -46,7 +48,7 @@
             {"id": 1, "blueA": "blue", "blueB": "pink"},
             {"id": 2, "blueA": "blue", "blueB": "pink"}
           ],
-          "colorMeaning": "Love",
+          "colorMeaning": "enthusiasm, fascination, happiness, creativity, determination, attraction, success, encouragement, and stimulation.",
           "inspiration": [],
           "fontLink": ["Rubik", "Lato"],
           "fontType": "https://3.bp.blogspot.com/-2sXrJUaAYEg/W6m70Sg_LcI/AAAAAAAAA3Y/to8LaJhIyfkLDdg6EnLcS3RXg0-Bj0RGQCLcBGAs/s1600/Karla.png",
@@ -55,7 +57,8 @@
         },
         {
           "id": 3,
-         
+          "title": "Im Header",
+          "body": "Nangoli Up Eric",
           "fontFamily": "Tahoma",
           "fontSize": "16px",
           "fontWeight": "700",
@@ -64,7 +67,7 @@
           "WordSpacing": "0px",
           "color": "pink",
           "opacity": "0",
-          "backgroundColor": "pink",
+          "backgroundColor": "Yellow",
           "backgroundImage": "",
           "accountImage": "",
           "author": "Jude",
@@ -82,7 +85,8 @@
         },
         {
           "id": 4,
-          
+          "title": "Im Header",
+          "body": "Hello am body whats Up Nangoli",
           "fontFamily": "OSWALD",
           "fontSize": "16px",
           "fontWeight": "700",
